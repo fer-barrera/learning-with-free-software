@@ -12,17 +12,17 @@ En el ámbito de la Ingeniería Electrónica, la integración de herramientas so
 
   1. **Observa la Tabla 1**.  
   2. **Instala todas las aplicaciones indicadas con el simbolo "✓" para tu curso:* (Sigue el orden indicado e ignora aquellas no marcadas).
-  3. **Recuerda seguir el orden** (De arriba abajo y conforme a la numeración).
+  3. **Recuerda seguir el orden** (De arriba abajo, conforme a la numeración).
 
 <div  align="center">
   
 **Tabla 1.** Listado de aplicaciones y procedimientos
-| Aplicaciones y procedimientos                                                   | Visión por computadora |
-| :------------------------------------------------------------------------------ | :--------------------: |
-| 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      |
-| 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      |
-| 3. [Jupyter](guides/anaconda/jupyter.md)                                        | ✓                      |
-| 4. [Librerias](guides/anaconda/libraries.md)                                    | ✓                      |
+| Aplicaciones y procedimientos                                                   | Visión por computadora | Machine Learning |
+| :------------------------------------------------------------------------------ | :--------------------: | :--------------: |
+| 1. [Anaconda](guides/anaconda/anaconda-install.md)                              | ✓                      | ✓               |
+| 2. [Configuración del Entorno virtual](guides/anaconda/virtual-environments.md) | ✓                      | ✓               |
+| 3. [Jupyter](guides/anaconda/jupyter.md)                                        | ✓                      | ✓               |
+| 4. [Librerias](guides/anaconda/libraries.md)                                    | ✓                      | ✓               |
 
 </div>
 
