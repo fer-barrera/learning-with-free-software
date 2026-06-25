@@ -31,7 +31,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
 <div  align="center">
   
 **Tabla 1.** Nombres sugeridos
-| Curso                                            | Nombre sugerido        |
+| **Curso**                                        | **Nombre sugerido**    |
 | :----------------------------------------------- | :--------------------: |
 | Computer vision (Visión por computadora)         | cv                     |
 | Machine learning                                 | ml                     |
