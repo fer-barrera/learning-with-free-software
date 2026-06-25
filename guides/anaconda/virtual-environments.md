@@ -21,7 +21,7 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
      
       ```console
       (base) PS C:\Users\jferb> conda -V
-      conda 23.7.4
+      conda 25.11.1
       ```
    
 2. Selección del nombre del entorno virtual
