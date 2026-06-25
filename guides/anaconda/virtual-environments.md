@@ -49,13 +49,13 @@ Un entorno virtual de Python es un espacio aislado que permite instalar paquetes
    - Una vez has instalado `conda` y seleccionado el nombre de tu entorno virtual, puedes crearlo, para ello utiliza el comando `conda create`, como se muestra a continuación:
 
       ```console
-      conda create --name nombre_entorno python=3.13
+      conda create --name nombre_entorno python=3.12
       ```
 
       | :point_up:    | Recuerda modificar: *nombre_entorno* por el sugerido! |
       |---------------|:------------------------|
 
-   - Por ejemplo, para crear un entorno virtual para el curso de visón por computadora con Python `3.13` sustituye `nombre_entorno` con `cv`. Recuerda que puedes usar cualquier nombre y versión de Python preinstalada. 
+   - Por ejemplo, para crear un entorno virtual para el curso de visón por computadora con Python `3.12` sustituye `nombre_entorno` con `cv`. Recuerda que puedes usar cualquier nombre y versión de Python preinstalada. 
 
 4. Activación del entorno
    - Una vez has creado el entorno virtual, **activa** el nuevo entorno:
