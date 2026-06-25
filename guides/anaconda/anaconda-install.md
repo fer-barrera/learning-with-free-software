@@ -21,9 +21,9 @@
 2. Ejecute el instalador y preste **atención** a las siguientes opciones:
    - **Installation for (⚙️):** seleccione la opción ''**All users**''. Esto permite instalar el entorno en la raíz del disco. En particular, fuera de la carpeta: mis documentos, lo cual es muy importante para la gestión de los entornos virtuales. Esta acción requiere la clave de administrador (🗝️).
    - **Choose install location (📁):** Cuando se pregunte por la ruta de instalación escriba: `C:\apps\anaconda3`
-   - Habilite la opción **Create shortcuts (supported packages only)** (✔️). 
-   - Habilite la opción **Register Anaconda3 as the system Python 3.x** (✔️). Esto habilita el entorno virtual base de Anaconda como el interprete por defecto del sistema operativo.
-   - Habilite la opción **Clear the package cache upon completion** (✔️).
+   - Habilite la opción (✔️) **Create shortcuts (supported packages only)**. 
+   - Habilite la opción (✔️) **Register Anaconda3 as the system Python 3.x**. Esto habilita el entorno virtual base de Anaconda como el interprete por defecto del sistema operativo.
+   - Habilite la opción (✔️) **Clear the package cache upon completion** (✔️).
     
 3. Finalice el proceso de instalación.
    
