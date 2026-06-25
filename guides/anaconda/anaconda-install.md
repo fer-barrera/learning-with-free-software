@@ -43,9 +43,9 @@
       ```
 <br/>
 
-## :hammer_and_wrench: Fix “Command Not Found” (Windows)
+## :hammer_and_wrench: Error “Command Not Found” (Windows)
 
-Si la instalación de Anaconda termina correctamente pero al ejecutar el `conda` en la terminal, este genera un error (comando no existe), agregue manualmente las carpetas de Anaconda a la variable de entorno **PATH**.
+Si la instalación de Anaconda termina correctamente pero al ejecutar el `conda` en la terminal, genera un error (comando no existe), agregue manualmente las carpetas de Anaconda a la variable de entorno **PATH**.
 
 Rutas típicas a agregar:
 
@@ -55,7 +55,7 @@ Rutas típicas a agregar:
 <br/>
 
 <details>
-  <summary><strong>📌 Ver guia para editar el PATH en Windows</strong></summary>
+  <summary><strong>📌 Click aquí para ver la guia para editar el PATH en Windows</strong></summary>
 
   1. **Abra la configuración de variables de entorno**
      - Presione la tecla **Windows** y escriba: **Editar las variables de entorno del sistema** ( o edit the system environment variables)
